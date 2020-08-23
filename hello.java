@@ -9,5 +9,6 @@ static int average(int a,int b,int c) {
   int x=2,y=4,z=5,res=0;
 	average(x,y,z);
 	System.out.println(res);
+		ayush
 	}
 }
